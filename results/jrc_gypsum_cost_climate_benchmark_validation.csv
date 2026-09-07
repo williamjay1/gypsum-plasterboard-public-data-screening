@@ -1,0 +1,4 @@
+check,pass,value_eur_per_t_co2e
+reported rates ordered,True,
+reported cost and GHG positive,True,
+implied rounded average cost per t CO2e,True,240.0

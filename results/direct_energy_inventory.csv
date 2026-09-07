@@ -1,0 +1,4 @@
+﻿component,intensity,unit,source,limitation
+electricity,60.35,kWh per t process product,Pedreño-Rojas et al. 2020,open process inventory; pre-consumer Spanish route
+natural gas,13.59,m3 per t process product,Pedreño-Rojas et al. 2020,open process inventory; conversion not used in primary result
+diesel,0.9,L per t process product,Pedreño-Rojas et al. 2020,open process inventory; no price or GHG factor added

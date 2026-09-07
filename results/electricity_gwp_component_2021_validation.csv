@@ -1,0 +1,5 @@
+check,value,expected,pass
+EU27 country count,27.0,27,True
+one year,1.0,1,True
+nonnegative electricity component,1.624744225690209,>=0,True
+energy inventory fixed,60.35,60.35,True

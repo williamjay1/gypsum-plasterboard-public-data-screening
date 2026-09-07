@@ -1,0 +1,16 @@
+scenario,gate,failure_mode,n_corners,n_corners_in_mode,fraction_of_corners,interpretation
+C0_clean_selective,EUROGYPSUM_DIAGNOSTIC_PROXY,pass,32,32,1.0,All diagnostic constraints pass at this corner
+C0_clean_selective,GERMANY_TECHNICAL_PROXY_COMPARATOR,organic_proxy,32,16,0.5,Paper/coating/wood mass proxy exceeds the diagnostic maximum
+C0_clean_selective,GERMANY_TECHNICAL_PROXY_COMPARATOR,pass,32,16,0.5,All diagnostic constraints pass at this corner
+C1_moderate_selective,EUROGYPSUM_DIAGNOSTIC_PROXY,moisture,32,4,0.125,Free-moisture proxy exceeds the diagnostic maximum
+C1_moderate_selective,EUROGYPSUM_DIAGNOSTIC_PROXY,multiple_quality_constraints,32,12,0.375,More than one quality constraint fails
+C1_moderate_selective,EUROGYPSUM_DIAGNOSTIC_PROXY,organic_proxy,32,12,0.375,Paper/coating/wood mass proxy exceeds the diagnostic maximum
+C1_moderate_selective,EUROGYPSUM_DIAGNOSTIC_PROXY,pass,32,4,0.125,All diagnostic constraints pass at this corner
+C1_moderate_selective,GERMANY_TECHNICAL_PROXY_COMPARATOR,moisture,32,4,0.125,Free-moisture proxy exceeds the diagnostic maximum
+C1_moderate_selective,GERMANY_TECHNICAL_PROXY_COMPARATOR,multiple_quality_constraints,32,12,0.375,More than one quality constraint fails
+C1_moderate_selective,GERMANY_TECHNICAL_PROXY_COMPARATOR,organic_proxy,32,12,0.375,Paper/coating/wood mass proxy exceeds the diagnostic maximum
+C1_moderate_selective,GERMANY_TECHNICAL_PROXY_COMPARATOR,pass,32,4,0.125,All diagnostic constraints pass at this corner
+C2_high_contamination,EUROGYPSUM_DIAGNOSTIC_PROXY,visible_contaminant,32,32,1.0,Visible-contaminant hard gate fails before chemistry
+C2_high_contamination,GERMANY_TECHNICAL_PROXY_COMPARATOR,visible_contaminant,32,32,1.0,Visible-contaminant hard gate fails before chemistry
+C3_hazardous_exclusion,EUROGYPSUM_DIAGNOSTIC_PROXY,hazard_routing,32,32,1.0,Hazardous branch is routed out before quality trade-offs
+C3_hazardous_exclusion,GERMANY_TECHNICAL_PROXY_COMPARATOR,hazard_routing,32,32,1.0,Hazardous branch is routed out before quality trade-offs

@@ -1,0 +1,6 @@
+﻿input,algebraic_effect,classification_effect,interpretation
+recovery_yield,changes recovered mass,does not change dry composition proxy,algebraic property of the registered equations; not an empirical importance claim
+retained paper plus coating_or_wood,changes organic mass proxy,can change mass-screen status,triage variable only; not TOC
+retained mineral,changes mass purity proxy and total non-gypsum fraction,can change mass-screen status,not CaSO4 assay
+product free moisture,changes wet conversion and moisture screen,does not change dry composition proxy,not incoming moisture
+maximum standardized constraint violation,replaces the term regret,diagnostic summary only,no decision-theoretic loss function is claimed

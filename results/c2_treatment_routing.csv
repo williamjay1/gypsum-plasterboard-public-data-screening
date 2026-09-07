@@ -1,0 +1,4 @@
+﻿scenario,stage,trigger,route,evidence_boundary
+C2,pre-treatment,visible nonhazardous contamination,pretreatment candidate,No direct post-treatment quality or yield observation; outcome unknown
+C2,post-treatment decision,recheck plus chemical panel,confirmatory chemistry required,Do not infer improvement from the presence of a treatment route
+C3,pre-treatment,hazard flag,route out to controlled specialist route,Hazard is not traded against purity or climate

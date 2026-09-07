@@ -1,0 +1,16 @@
+scenario,parameter,n_change_points,change_count_check,scope
+C0_clean_selective,recovery_yield,7,PASS,Relative perturbations clipped to registered bounds
+C0_clean_selective,retained_paper_fraction,7,PASS,Relative perturbations clipped to registered bounds
+C0_clean_selective,retained_coating_wood_fraction,7,PASS,Relative perturbations clipped to registered bounds
+C0_clean_selective,retained_mineral_fraction,7,PASS,Relative perturbations clipped to registered bounds
+C0_clean_selective,free_moisture,7,PASS,Relative perturbations clipped to registered bounds
+C1_moderate_selective,recovery_yield,7,PASS,Relative perturbations clipped to registered bounds
+C1_moderate_selective,retained_paper_fraction,7,PASS,Relative perturbations clipped to registered bounds
+C1_moderate_selective,retained_coating_wood_fraction,7,PASS,Relative perturbations clipped to registered bounds
+C1_moderate_selective,retained_mineral_fraction,7,PASS,Relative perturbations clipped to registered bounds
+C1_moderate_selective,free_moisture,7,PASS,Relative perturbations clipped to registered bounds
+C2_high_contamination,recovery_yield,7,PASS,Relative perturbations clipped to registered bounds
+C2_high_contamination,retained_paper_fraction,7,PASS,Relative perturbations clipped to registered bounds
+C2_high_contamination,retained_coating_wood_fraction,7,PASS,Relative perturbations clipped to registered bounds
+C2_high_contamination,retained_mineral_fraction,7,PASS,Relative perturbations clipped to registered bounds
+C2_high_contamination,free_moisture,7,PASS,Relative perturbations clipped to registered bounds

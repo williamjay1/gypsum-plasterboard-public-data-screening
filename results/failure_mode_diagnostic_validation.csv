@@ -1,0 +1,9 @@
+scenario,gate,corner_count,mode_count_sum,corner_count_check,mode_partition_check,scope
+C0_clean_selective,EUROGYPSUM_DIAGNOSTIC_PROXY,32,32,PASS,PASS,Diagnostic decomposition of researcher-specified lower/upper corners; not empirical batch evidence
+C0_clean_selective,GERMANY_TECHNICAL_PROXY_COMPARATOR,32,32,PASS,PASS,Diagnostic decomposition of researcher-specified lower/upper corners; not empirical batch evidence
+C1_moderate_selective,EUROGYPSUM_DIAGNOSTIC_PROXY,32,32,PASS,PASS,Diagnostic decomposition of researcher-specified lower/upper corners; not empirical batch evidence
+C1_moderate_selective,GERMANY_TECHNICAL_PROXY_COMPARATOR,32,32,PASS,PASS,Diagnostic decomposition of researcher-specified lower/upper corners; not empirical batch evidence
+C2_high_contamination,EUROGYPSUM_DIAGNOSTIC_PROXY,32,32,PASS,PASS,Diagnostic decomposition of researcher-specified lower/upper corners; not empirical batch evidence
+C2_high_contamination,GERMANY_TECHNICAL_PROXY_COMPARATOR,32,32,PASS,PASS,Diagnostic decomposition of researcher-specified lower/upper corners; not empirical batch evidence
+C3_hazardous_exclusion,EUROGYPSUM_DIAGNOSTIC_PROXY,32,32,PASS,PASS,Diagnostic decomposition of researcher-specified lower/upper corners; not empirical batch evidence
+C3_hazardous_exclusion,GERMANY_TECHNICAL_PROXY_COMPARATOR,32,32,PASS,PASS,Diagnostic decomposition of researcher-specified lower/upper corners; not empirical batch evidence

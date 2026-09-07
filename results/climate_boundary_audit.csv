@@ -1,0 +1,4 @@
+﻿item,value,role,status,reason
+JRC gypsum saving benchmark,66-104 kg CO2-eq per t gypsum fraction,external published scenario,NOT_COMBINED_WITH_PROCESS_ELECTRICITY,Different system boundary and functional basis
+JRC national electricity factors,2021 country factors,direct electricity component,RETAINED_AS_COMPONENT_ONLY,Not a complete LCA and endpoint is 2021
+Net climate headroom,not reported,not identifiable in present boundary,REMOVED_FROM_PRIMARY_RESULT,Avoids double counting and functional-unit mixing

@@ -1,0 +1,11 @@
+﻿check,value,expected,status,note
+registry_version,ET-public-data-redesign-2026-09-07-v1,ET-public-data-redesign-2026-09-07-v1,PASS,Single authoritative registry for redesigned outputs
+C0_paper_upper,0.01,0.01,PASS,Registered paper fraction
+C0_coating_wood_upper,0.002,0.002,PASS,Registered coating or wood fraction
+C0_mineral_upper,0.002,0.002,PASS,Registered mineral fraction
+C0_product_moisture_upper,0.04,0.04,PASS,Registered product free moisture
+C0_min_gypsum_equivalent_kg,662.592,662.592,PASS,Minimum across all 32 registered corners
+C0_max_gypsum_equivalent_kg,739.2,739.2,PASS,Maximum across all 32 registered corners
+C0_min_mass_purity_proxy,0.986,0.986,PASS,Minimum across all 32 registered corners
+C0_max_organic_mass_proxy,0.012,0.012,PASS,Maximum across all 32 registered corners
+retired_symmetric_bound_claim,"p,c,mineral,m <= 0.01",not used,RETIRED,The redesigned paper uses the authoritative heterogeneous bounds above; the symmetric statement is not an input.

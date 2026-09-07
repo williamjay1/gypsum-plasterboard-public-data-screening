@@ -1,0 +1,9 @@
+scenario,gate,corner_count_check,pass_count_range_check,proxy_range_check,scope
+C0_clean_selective,EUROGYPSUM_DIAGNOSTIC_PROXY,PASS,PASS,PASS,Corner enumeration of researcher-specified scenario bounds; not empirical batch validation
+C0_clean_selective,GERMANY_TECHNICAL_PROXY_COMPARATOR,PASS,PASS,PASS,Corner enumeration of researcher-specified scenario bounds; not empirical batch validation
+C1_moderate_selective,EUROGYPSUM_DIAGNOSTIC_PROXY,PASS,PASS,PASS,Corner enumeration of researcher-specified scenario bounds; not empirical batch validation
+C1_moderate_selective,GERMANY_TECHNICAL_PROXY_COMPARATOR,PASS,PASS,PASS,Corner enumeration of researcher-specified scenario bounds; not empirical batch validation
+C2_high_contamination,EUROGYPSUM_DIAGNOSTIC_PROXY,PASS,PASS,PASS,Corner enumeration of researcher-specified scenario bounds; not empirical batch validation
+C2_high_contamination,GERMANY_TECHNICAL_PROXY_COMPARATOR,PASS,PASS,PASS,Corner enumeration of researcher-specified scenario bounds; not empirical batch validation
+C3_hazardous_exclusion,EUROGYPSUM_DIAGNOSTIC_PROXY,PASS,PASS,PASS,Corner enumeration of researcher-specified scenario bounds; not empirical batch validation
+C3_hazardous_exclusion,GERMANY_TECHNICAL_PROXY_COMPARATOR,PASS,PASS,PASS,Corner enumeration of researcher-specified scenario bounds; not empirical batch validation

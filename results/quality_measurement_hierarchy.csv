@@ -1,0 +1,10 @@
+﻿field,layer,decision_use,non_equivalence,public_data_status
+hazard flag,safety and routing,hard exclusion when confirmed,not an acceptance quality substitute,public rules; no harmonized prevalence
+visible nonhazardous contaminant,feed flag and pretreatment trigger,pretreatment candidate; reassess after treatment,does not prove product failure,scenario flag only
+paper fraction,mass screen,triage and separation priority,not TOC,component observations not matched across EU
+coating or wood fraction,mass screen,triage and separation priority,not TOC,component observations not matched across EU
+mineral residue,mass screen,dry mass balance,not CaSO4 purity,component observations not matched across EU
+product free moisture,physical acceptance,drying or retest trigger,not incoming moisture,selected process ranges only
+CaSO4·2H2O or chemical purity,chemical acceptance,product quality gate,cannot be inferred from mass proxy,available in selected studies only
+total organic carbon,chemical acceptance,product quality gate,cannot be inferred from paper mass,not matched to scenario components
+chloride and pH,chemical acceptance,intended use and customer gate,not part of mass balance,public criteria; batch observations missing

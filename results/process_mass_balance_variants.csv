@@ -1,0 +1,4 @@
+﻿variant,lower_output_t_per_reference_input,upper_output_t_per_reference_input,numerator,denominator,source,status
+composition_scenario_plus_conditional_yield,0.672,0.7392,dry board-bearing process output,"1,000 kg normalized candidate input; b=0.84 is a modeled composition share",JRC135470 share combined with Weimann yield only as a conditional model variant,ILLUSTRATIVE_CONDITIONAL_NOT_EMPIRICAL_CHAIN
+weimann_process_anchor,0.8,0.88,study defined recycled gypsum output,post consumer input in the selected German industrial study,Weimann et al. 2021,EXTERNAL_ANCHOR_NOT_COMBINABLE_WITH_B=0.84
+C0_registered_gypsum_equivalent,0.6625919999999998,0.7392000000000001,dry gypsum equivalent after registered retained fractions,"1,000 kg normalized candidate input",Authoritative scenario registry,PRIMARY_REDESIGNED_SCENARIO_OUTPUT

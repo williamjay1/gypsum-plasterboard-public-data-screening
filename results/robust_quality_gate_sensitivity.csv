@@ -1,0 +1,9 @@
+scenario,gate,n_parameter_corners,n_pass,pass_fraction,min_recovered_gypsum_equivalent_kg,max_recovered_gypsum_equivalent_kg,min_purity_proxy,max_purity_proxy,min_organic_proxy,max_organic_proxy,min_moisture,max_moisture,robust_status,gate_source_note
+C0_clean_selective,EUROGYPSUM_DIAGNOSTIC_PROXY,32,32,1.0,662.592,739.2,0.986,1.0,0.0,0.012,0.0,0.04,ALL_CORNERS_PASS,Eurogypsum 2024 voluntary screening values; proxies are not chemistry
+C0_clean_selective,GERMANY_TECHNICAL_PROXY_COMPARATOR,32,24,0.75,662.592,739.2,0.986,1.0,0.0,0.012,0.0,0.04,BOUNDARY_INDETERMINATE,German RC-gypsum technical comparator; CaSO4 and TOC values mapped only as diagnostic proxies
+C1_moderate_selective,EUROGYPSUM_DIAGNOSTIC_PROXY,32,8,0.25,618.24,739.2,0.92,1.0,0.0,0.06,0.0,0.2,BOUNDARY_INDETERMINATE,Eurogypsum 2024 voluntary screening values; proxies are not chemistry
+C1_moderate_selective,GERMANY_TECHNICAL_PROXY_COMPARATOR,32,4,0.125,618.24,739.2,0.92,1.0,0.0,0.06,0.0,0.2,BOUNDARY_INDETERMINATE,German RC-gypsum technical comparator; CaSO4 and TOC values mapped only as diagnostic proxies
+C2_high_contamination,EUROGYPSUM_DIAGNOSTIC_PROXY,32,0,0.0,323.4,630.0,0.7,1.0,0.0,0.2,0.0,0.4,NO_CORNERS_PASS,Eurogypsum 2024 voluntary screening values; proxies are not chemistry
+C2_high_contamination,GERMANY_TECHNICAL_PROXY_COMPARATOR,32,0,0.0,323.4,630.0,0.7,1.0,0.0,0.2,0.0,0.4,NO_CORNERS_PASS,German RC-gypsum technical comparator; CaSO4 and TOC values mapped only as diagnostic proxies
+C3_hazardous_exclusion,EUROGYPSUM_DIAGNOSTIC_PROXY,32,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,NO_CORNERS_PASS,Eurogypsum 2024 voluntary screening values; proxies are not chemistry
+C3_hazardous_exclusion,GERMANY_TECHNICAL_PROXY_COMPARATOR,32,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,NO_CORNERS_PASS,German RC-gypsum technical comparator; CaSO4 and TOC values mapped only as diagnostic proxies

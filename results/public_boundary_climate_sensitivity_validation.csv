@@ -1,0 +1,5 @@
+check,value,expected,pass
+scenario_count,4.0,4,True
+eu27_factor_count_2021,27.0,27,True
+rows,108.0,108,True
+c3_hazardous_has_zero_recovered_output,0.0,0,True
