@@ -1,0 +1,19 @@
+{
+  "title": "Public data decision support tool for gypsum plasterboard recycling",
+  "upload_type": "software",
+  "description": "Reproducibility package for a public data computational study of batch level triage and pretreatment routing for post consumer gypsum plasterboard. The package contains public working tables, analysis scripts, derived results, figures and the Springer Nature manuscript package. It does not contain field sampling, laboratory experiments, human participants or unpublished facility data.",
+  "creators": [
+    {
+      "name": "Zhang, Junjie"
+    }
+  ],
+  "keywords": [
+    "gypsum plasterboard recycling",
+    "construction and demolition waste",
+    "public data",
+    "reproducibility",
+    "decision support"
+  ],
+  "license": "MIT",
+  "access_right": "open"
+}
